@@ -1,0 +1,38 @@
+[
+  {
+    "username": "ali",
+    "imageUrl": "https://picsum.photos/id/1062/400/400",
+    "location": "Denizli, Türkiye",
+    "likes": "12"
+  },
+  {
+    "username": "mehmet",
+    "imageUrl": "https://picsum.photos/id/1063/400/400",
+    "location": "Muğla, Türkiye",
+    "likes": "53"
+  },
+  {
+    "username": "ayşe",
+    "imageUrl": "https://picsum.photos/id/1064/400/400",
+    "location": "Ankara, Türkiye",
+    "likes": "34"
+  },
+  {
+    "username": "fatma",
+    "imageUrl": "https://picsum.photos/id/1065/400/400",
+    "location": "Kastamonu, Türkiye",
+    "likes": "93"
+  },
+  {
+    "username": "murat",
+    "imageUrl": "https://picsum.photos/id/1066/400/400",
+    "location": "İstanbul, Türkiye",
+    "likes": "35"
+  },
+  {
+    "username": "elif",
+    "imageUrl": "https://picsum.photos/id/1067/400/400",
+    "location": "Sivas, Türkiye",
+    "likes": "22"
+  }
+]
